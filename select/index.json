@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Sweet Caroline",
+  "base_artist": "Neil Diamond",
+  "createdAt": "2026-02-21T03:19:25.619482Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sweet Caroline",
+      "artist": "Neil Diamond",
+      "has_synced": true,
+      "path": "select/01_Sweet_Caroline_Neil_Diamond.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sweet Caroline",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/02_Sweet_Caroline_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sweet Caroline (rehearsal - 10th August 1970 International Hotel)",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/03_Sweet_Caroline_(rehearsal_-_10th_August_1970_International_Hotel)_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sweet Caroline",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/04_Sweet_Caroline_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sweet Caroline (Glee Cast Version)",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/05_Sweet_Caroline_(Glee_Cast_Version)_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sweet Caroline",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/06_Sweet_Caroline_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sweet Caroline",
+      "artist": "Neil Diamond",
+      "has_synced": true,
+      "path": "select/07_Sweet_Caroline_Neil_Diamond.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sweet Caroline",
+      "artist": "Waylon Jennings",
+      "has_synced": true,
+      "path": "select/08_Sweet_Caroline_Waylon_Jennings.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sweet Caroline",
+      "artist": "Neil Diamond",
+      "has_synced": true,
+      "path": "select/09_Sweet_Caroline_Neil_Diamond.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sweet Caroline",
+      "artist": "Julio Iglesias",
+      "has_synced": true,
+      "path": "select/10_Sweet_Caroline_Julio_Iglesias.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sweet Caroline",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/11_Sweet_Caroline_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sweet Caroline",
+      "artist": "Elvis Presley Cd34 Of 50",
+      "has_synced": true,
+      "path": "select/12_Sweet_Caroline_Elvis_Presley_Cd34_Of_50.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sweet Caroline (feat. Ministry)",
+      "artist": "David Hasselhoff feat. Ministry",
+      "has_synced": true,
+      "path": "select/13_Sweet_Caroline_(feat._Ministry)_David_Hasselhoff_feat._Ministry.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sweet Caroline",
+      "artist": "David Hasselhoff, Ministry",
+      "has_synced": true,
+      "path": "select/14_Sweet_Caroline_David_Hasselhoff,_Ministry.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sweet Caroline",
+      "artist": "Neil Diamond",
+      "has_synced": true,
+      "path": "select/15_Sweet_Caroline_Neil_Diamond.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sweet Caroline",
+      "artist": "DJ Ötzi feat. The Bellamy Brothers",
+      "has_synced": false,
+      "path": "select/16_Sweet_Caroline_DJ_Ötzi_feat._The_Bellamy_Brothers.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sweet Caroline",
+      "artist": "DJ Ötzi & The Bellamy Brothers",
+      "has_synced": false,
+      "path": "select/17_Sweet_Caroline_DJ_Ötzi_&_The_Bellamy_Brothers.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sweet Caroline",
+      "artist": "Neil Diamond",
+      "has_synced": false,
+      "path": "select/pl_01_Sweet_Caroline_Neil_Diamond.txt"
+    }
+  ]
+}
